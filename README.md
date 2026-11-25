@@ -75,3 +75,11 @@ and multiplayer game mechanics. Developed as a collaborative project.
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugoamarillo/hugoamarillo/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugoamarillo/hugoamarillo/output/snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/hugoamarillo/hugoamarillo/output/snake.svg"/>
+</picture>
