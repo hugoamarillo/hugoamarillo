@@ -79,3 +79,5 @@ and multiplayer game mechanics. Developed as a collaborative project.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugoamarillo/hugoamarillo/output/snake.svg"/>
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/hugoamarillo/hugoamarillo/output/snake.svg"/>
 </picture>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer)
