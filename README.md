@@ -54,10 +54,6 @@ and multiplayer game mechanics. Developed as a collaborative project.
   <img width="75%" src="https://streak-stats.demolab.com?user=hugoamarillo&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📈 Contribution Graph
-
-[![Hugo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hugoamarillo&theme=tokyo-night&hide_border=true)](https://github.com/hugoamarillo)
-
 ## 📫 Let's Connect
 
 <p align="center">
