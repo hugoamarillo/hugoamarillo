@@ -65,7 +65,7 @@ and multiplayer game mechanics. Developed as a collaborative project.
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/hugo-amarillo">
+  <a href="https://www.linkedin.com/in/hugo-amarillo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hugoamarillo247@gmail.com">
